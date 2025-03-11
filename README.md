@@ -1,6 +1,6 @@
  # VIRTUAL MACHINE CREATION IN LINUX
-
-#### REG NUMBER: 2122230040009
+ 
+#### REG NUMBER: 212223040009
 #### NAME: AJAY M
 
 ## AIM
@@ -72,7 +72,7 @@ date
 ###  Writing a Bash Script in Mousepad
 #### Open Mousepad
 ```
-mousepad script.sh &
+mousepad myscript.sh &
 ```
 
 #### Write the Bash Script
@@ -108,18 +108,28 @@ echo "Remainder: $rem"
 ```
 ####  Make the Script Executable
 ```
-chmod +x script.sh
+chmod +x myscript.sh
 ```
 
 #### Run the Script
 ```
-./script.sh
+./myscript.sh
 ```
 
 ## OUTPUT
 
+#### REG NUMBER: 212222100058
+#### NAME: E VARSHA SHARON
 
-![Screenshot 2025-03-11 133403](https://github.com/user-attachments/assets/f5fcc329-6717-4476-9b50-980fbc77be00)
+Configuration of Kali Linux on Oracle Virtual Box :
+
+![Screenshot 2025-03-11 134850](https://github.com/user-attachments/assets/7481ebf5-8edd-4cb2-87cc-e8e64ec9cafc)
+
+
+Output : 
+![image](https://github.com/user-attachments/assets/cc481926-bcfc-4901-b74d-7f5c76beabd5)
+![image](https://github.com/user-attachments/assets/ddc08a53-e155-4a5c-afa4-d4a9429696d3)
+![Screenshot 2025-03-11 133403](https://github.com/user-attachments/assets/a30e5d51-d55c-4ea1-8a39-6bc60e80b50b)
 
 
 
